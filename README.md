@@ -1,7 +1,9 @@
 # object-tracking
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
-![brain scan image](https://images.pexels.com/photos/4226264/pexels-photo-4226264.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
+
+![README image](https://github.com/tiagomonteiro0715/object-tracking/blob/main/README-img.png)
 
 
 -----
